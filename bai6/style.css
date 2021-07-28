@@ -1,0 +1,15 @@
+#phong {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  background-color: salmon;
+  width: 100px;
+  height: 100px;
+  padding: 10px solid yellow;
+  border: 10px solid blue;
+  padding: 10px 20px 30px 40px;
+}
+.phong div:nth-child(2) {
+  background-color: red;
+}
